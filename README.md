@@ -91,4 +91,13 @@ FashGAN is a Generative Adversarial Network (GAN) designed to generate synthetic
 ### 5. Training Command:
 Run the following command to start training:
 ```python
-fashgan.fit(ds, epochs=20, callbacks=[ModelMonitor()])
+fashgan.fit(ds, epochs=20, callbacks=[ModelMonitor()]) 
+```
+
+## License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+## Contact
+
+For questions or suggestions, please contact at [adityaworks18@gmail.com](mailto:adityaworks18@gmail.com).
